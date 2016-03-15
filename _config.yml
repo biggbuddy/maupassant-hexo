@@ -12,13 +12,13 @@ shareto: true ## If you want to use the share button please set the value to tru
 busuanzi: true ## If you want to use Busuanzi page views please set the value to true.
 
 menu:
-  - page: home
+  - page: 主页
     directory: .
     icon: fa-home
-  - page: archive
+  - page: 归档
     directory: archives/
     icon: fa-archive
-  - page: about
+  - page: 关于
     directory: about/
     icon: fa-user
   - page: rss
@@ -34,12 +34,10 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: site-name1
-    url: http://www.example1.com/
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
+  - title: ImportNew
+    url: http://www.importnew.com/
+  - title: 知乎
+    url: http://www.zhihu.com/
 
 # Static files
 js: js
